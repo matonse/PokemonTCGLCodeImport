@@ -40,5 +40,7 @@ Line copied: GHI789
 # Requirements
 
 Python 3.x
+
 pyperclip library: Install using pip install pyperclip
+
 keyboard library: Install using pip install keyboard
